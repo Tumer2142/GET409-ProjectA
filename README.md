@@ -10,13 +10,21 @@ Fiche d'équipe
 | sovi rawan   | Master Prompt Engineer  |sovirawan25@gmail.com|  
 | jocelan Rawambya  | Responsable Impact  ||  
 
-Notre defi
-Secteur : [votre secteur]
-Probleme : [votre enonce HMW]
+Notre défi
+
+Secteur: numérique
+
+Probleme : difficulté de suivi des requêtes de réparation et difficulté de gestion des clients
+
+Énoncé HMW :
+
+Comment pourrions-nous aider Judas à réduire sa charge mentale de travail pour dégager du temps pour sa famille ?
+
 Livrables S1
 [ ] Fiche equipe soumise
 [ ] Carte d'empathie
 [ ] Enonce HMW
+
 Carte d'Empathie — Persona Judas
 
 Fiche persona
