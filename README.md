@@ -1,5 +1,7 @@
 # GET409-Project A
-projet cours IA 
+
+Fiche d'équipe
+
 | membre       |roles      |          EMAIL |  
 | ------------- | ------------- |-------------|  
 | RAKOTOBE Ihasiniravo | Dev UI (No-Code)  |rakotobeihasiniravo@gmail.com|  
