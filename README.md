@@ -14,7 +14,7 @@ Notre défi
 
 Secteur: numérique
 
-Probleme : difficulté de suivi des requêtes de réparation et difficulté de gestion des clients
+Problème : difficulté de suivi des requêtes de réparation et difficulté de gestion des clients
 
 Énoncé HMW :
 
