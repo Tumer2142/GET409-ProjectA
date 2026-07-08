@@ -1,7 +1,7 @@
 # GET409-Project A
 projet cours IA 
-| membre      | |roles      |          |EMAIL |  
-| ------------- | ------------- ||  
+| membre       |roles      |          EMAIL |  
+| ------------- | ------------- |-------------|  
 | RAKOTOBE Ihasiniravo | Dev UI (No-Code)  |rakotobeihasiniravo@gmail.com|  
 | Amadou  Moctar Ly  | Responsable Impact  |roctariusz.1@gmail.com/lymoctaramadou@gmail.com|  
 | Rouzaqi Omar   | Chef de Produit (PM)  |Rouzaquiomar2004@gmail.com|  
