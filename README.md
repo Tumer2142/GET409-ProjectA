@@ -82,7 +82,6 @@ DOULEURS (Pains)
 
 Obstacles, frustrations, risques perçus
 
-
 Aucun système structuré pour suivre l'état des réparations en cours.
 Communication client chronophage et peu fiable (oublis, retards de mise à jour).
 Charge de travail élevée qui empiète sur la vie personnelle et familiale.
