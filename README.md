@@ -18,7 +18,7 @@ Problème : difficulté de suivi des requêtes de réparation et difficulté de 
 
 Énoncé HMW :
 
-Comment pourrions-nous aider Judas à réduire sa charge mentale de travail pour dégager du temps pour sa famille ?
+Comment pourrions-nous aider Judas à réduire sa charge de travail pour dégager du temps pour sa famille ?
 
 Livrables S1
 [ ] Fiche equipe soumise
