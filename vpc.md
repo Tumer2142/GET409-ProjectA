@@ -26,6 +26,7 @@ Trésorerie fluide et prévisible : Encaisser les acomptes systématiquement ava
 Professionnalisation perçue : Envoyer des reçus/fiches de dépôt professionnels qui rassurent le client dakarois sur la sécurité de son matériel et renforcent son image de marque face aux réparateurs de rue.
 
 🛠️ Proposition de Valeur : FixIt
+
 📦 PRODUITS & SERVICES (Le MVP)
 Module de Carnet de Réparation Digital & Fiches de Dépôt (WhatsApp/SMS) : Une application mobile légère (utilisable hors-ligne) permettant à Judas de créer en 30 secondes un dossier client, de générer un reçu/fiche de dépôt pro avec photo de l'état de l'ordinateur, et d'envoyer un récapitulatif instantané au client sur WhatsApp.
 
