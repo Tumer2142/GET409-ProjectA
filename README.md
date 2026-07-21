@@ -1,4 +1,4 @@
-# GET409-Project A
+# GET409-FixIt
 
 Fiche d'équipe
 
