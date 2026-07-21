@@ -1,4 +1,5 @@
 📋 Profil Client : Judas (Dakar, Sénégal)
+
 🎯 JOBS TO BE DONE (Ce qu'il essaie d'accomplir)
 Job Fonctionnel : Diagnostiquer, réparer et restituer les ordinateurs portables dans les délais annoncés, tout en gérant le flux continu des pièces détachées et le suivi des diagnostics (souvent fait sur bout de papier ou via de simples notes vocales WhatsApp).
 
