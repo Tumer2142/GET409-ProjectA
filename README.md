@@ -76,17 +76,3 @@ GET409-ProjectA/
 | `docs/backlog-s3.md` | User Stories du Sprint 3 |
 | `docs/hmw-definitif.md` | Énoncé HMW définitif |
 
----
-
-# 📊 État du projet
-
-| Sprint | Statut |
-|--------|:------:|
-| Sprint 1 | ✅ Terminé |
-| Sprint 2 | 🟡 En cours |
-
----
-
-# 🚀 Objectif du projet
-
-Développer une solution numérique permettant à **Judas** de mieux organiser les demandes de réparation de ses clients, d'optimiser son temps de travail et de consacrer davantage de temps à sa famille.
