@@ -1,30 +1,3 @@
-# GET409-FixIt
-
-Fiche d'équipe
-
-| membre       |roles      |          EMAIL |  
-| ------------- | ------------- |-------------|  
-| RAKOTOBE Ihasiniravo | Dev UI (No-Code)  |rakotobeihasiniravo@gmail.com|  
-| Amadou  Moctar Ly  | Responsable Impact  |roctariusz.1@gmail.com/lymoctaramadou@gmail.com|  
-| Rouzaqi Omar   | Chef de Produit (PM)  |Rouzaquiomar2004@gmail.com|  
-| sovi rawan   | Master Prompt Engineer  |sovirawan25@gmail.com|  
-| jocelan Rawambya  | Responsable Impact  ||  
-
-Notre défi
-
-Secteur: numérique
-
-Problème : difficulté de suivi des requêtes de réparation et difficulté de gestion des clients
-
-Énoncé HMW :
-
-Comment pourrions-nous aider Judas à réduire sa charge de travail pour dégager du temps pour sa famille ?
-
-Livrables S1
-[ ] Fiche equipe soumise
-[ ] Carte d'empathie
-[ ] Enonce HMW
-
 Carte d'Empathie — Persona Judas
 
 Fiche persona
