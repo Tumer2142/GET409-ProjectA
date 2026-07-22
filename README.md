@@ -1,65 +1,92 @@
-Carte d'Empathie — Persona Judas
+# GET409 - Project A
 
-Fiche persona
+**Cours :** GET409  
+**Université :** Swiss UMEF University — Campus de Dakar  
+**Année académique :** 2025–2026  
+**Enseignant :** M. Malick Faye Diagne
 
-ÉlémentDétailPrénom, âge, professionJudas, 27 ans, réparateur d'ordinateursLocalisationDakarProblème principalDifficulté de suivi des requêtes de réparation et de mise à jour des clientsÉquipement digitalOrdinateur, téléphoneRevenus approximatifs400 000 FCFA / semaineContexte familialMarié, manque de temps pour sa famille à cause du volume de requêtes quotidiennes
+---
 
+# 👥 Membres de l'équipe
 
-CE QU'IL DIT (Says)
+| Membre | Rôle | Adresse e-mail |
+|--------|------|----------------|
+| **RAKOTOBE Ihasiniravo** | Développeur UI (No-Code) | rakotobeihasiniravo@gmail.com |
+| **Amadou Moctar Ly** | Responsable Impact | roctariusz.1@gmail.com<br>lymoctaramadou@gmail.com |
+| **Rouzaqi Omar** | Chef de Produit (Product Manager) | Rouzaquiomar2004@gmail.com |
+| **SOVI Rawan** | Master Prompt Engineer | sovirawan25@gmail.com |
+| **Jocelan Rawambya** | Responsable Impact | À renseigner |
 
-Paroles et expressions verbatim recueillies lors de l'interview
+---
 
+# 📌 Informations générales
 
-« Je suis fatigué, je n'ai plus de temps pour moi. »
-« Je cherche de quoi alléger mon travail. »
-(implicite, à valider en interview complémentaire) « Je reçois trop de demandes par jour pour toutes les suivre correctement. »
-(implicite) « J'oublie parfois de tenir mes clients informés de l'avancement. »
+| Élément | Information |
+|----------|-------------|
+| **Secteur** | Numérique |
+| **Dépôt GitHub** | https://github.com/Tumer2142/GET409-ProjectA |
+| **Application Dify** | https://cloud.dify.ai/app/73e07a8e-cdb3-4b05-a411-4587e6f7ff1c |
 
+---
 
+# 💡 Notre défi
 
-CE QU'IL PENSE (Think)
+## Problème observé
 
-Croyances, préoccupations, ce qu'il n'ose pas toujours exprimer
+Difficulté de suivi des demandes de réparation et difficulté de gestion des clients.
 
+## Énoncé HMW (Sprint 2)
 
-Il pense probablement qu'il perd de l'argent ou des clients à cause d'un suivi désorganisé.
-Il se sent peut-être coupable de ne pas être assez présent pour sa famille.
-Il pense qu'un outil ou une méthode plus simple pourrait lui faire gagner du temps, mais ne sait pas lequel choisir ni s'il en a les moyens.
-Il craint sans doute que son activité stagne s'il ne trouve pas une solution rapidement.
+> **Comment pourrions-nous aider Judas à mieux s'organiser pour gérer les demandes des clients et ainsi avoir plus de temps pour sa famille ?**
 
+---
 
+# 📦 Livrables — Sprint 1
 
-CE QU'IL FAIT (Do)
+- ✅ Fiche d'équipe
+- ✅ Dépôt GitHub public créé
+- ✅ Carte d'empathie
+- ✅ Énoncé HMW validé
 
-Comportements observés ou déclarés
+---
 
+# 📁 Architecture du dépôt
 
-Gère un volume important de requêtes de réparation quotidiennement, probablement de façon manuelle (appels, messages, notes).
-Travaille avec un ordinateur et un téléphone comme seuls outils numériques, sans mention d'un système de gestion dédié (CRM, agenda partagé, outil de ticketing).
-Consacre l'essentiel de son temps au travail, au détriment du temps familial.
-Communique avec les clients de manière réactive plutôt que proactive (mise à jour difficile).
-CE QU'IL RESSENT (Feel)
+```text
+GET409-ProjectA/
+│
+├── README.md
+└── docs/
+    ├── fiche-equipe.md
+    └── carte-empathie.md
+```
 
-Émotions exprimées ou déduites
+---
 
+# 📦 Livrables — Sprint 2
 
-Fatigue — épuisement physique et mental, exprimé directement.
-Surcharge / débordement — trop de requêtes à gérer en parallèle.
-Culpabilité — vis-à-vis de sa famille, du temps qu'il ne peut pas lui consacrer.
-Frustration — face à un système de suivi inefficace qui lui fait perdre du temps.
-Espoir prudent — il cherche activement une solution, signe qu'il croit encore à une amélioration possible.
+| Fichier | Contenu |
+|----------|----------|
+| `docs/chapeaux-bono.md` | Analyse des 6 Chapeaux de Bono |
+| `docs/contraintes-mvp.md` | Contraintes non négociables du MVP |
+| `docs/hypotheses-validation.md` | Hypothèses à tester au Sprint 3 |
+| `docs/metriques-succes.md` | Métriques de succès (Sprint 6) |
+| `docs/vpc.md` | Value Proposition Canvas |
+| `docs/vpc-connections.md` | Traçabilité Chapeaux de Bono → VPC |
+| `docs/backlog-s3.md` | User Stories du Sprint 3 |
+| `docs/hmw-definitif.md` | Énoncé HMW définitif |
 
+---
 
+# 📊 État du projet
 
-DOULEURS (Pains)
+| Sprint | Statut |
+|--------|:------:|
+| Sprint 1 | ✅ Terminé |
+| Sprint 2 | 🟡 En cours |
 
-Obstacles, frustrations, risques perçus
+---
 
-Aucun système structuré pour suivre l'état des réparations en cours.
-Communication client chronophage et peu fiable (oublis, retards de mise à jour).
-Charge de travail élevée qui empiète sur la vie personnelle et familiale.
-Risque de perte de clients ou de réputation si le suivi reste défaillant.
-Pas de séparation claire entre temps professionnel et temps personnel.
+# 🚀 Objectif du projet
 
-
-
+Développer une solution numérique permettant à **Judas** de mieux organiser les demandes de réparation de ses clients, d'optimiser son temps de travail et de consacrer davantage de temps à sa famille.
