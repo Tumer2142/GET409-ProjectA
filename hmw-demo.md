@@ -57,3 +57,68 @@ Dire : "Nous avons déployé FixIt chez Judas pendant 30 jours. Voici nos résul
 Montrer : Le présentateur passe à la slide du Tableau de Bord S6.
 
 Le jury voit : Le tableau suivant projeté à l'écran :
+
+
+Voici le tableau des métriques structuré sous forme de texte clair et lisible:
+
+Tableau de bord des métriques (S6) 
+
+
+Temps hebdomadaire gagné (Nord) 
+
+
+Cible à 30 jours : 5h / semaine 
+
+
+Valeur réelle S6 : 6h 30min / semaine 
+
+
+Statut : 🟢 Dépassé 
+
+
+Réparations suivies via FixIt (P1) 
+
+
+Cible à 30 jours : 80% 
+
+
+Valeur réelle S6 : 85% 
+
+
+Statut : 🟢 Dépassé 
+
+
+Consultation auto-suivi client (P2) 
+
+
+Cible à 30 jours : 60% 
+
+
+Valeur réelle S6 : 68% 
+
+
+Statut : 🟢 Dépassé 
+
+
+Soirées libérées avant 19h (P3) 
+
+
+Cible à 30 jours : 4 soirées / semaine 
+
+
+Valeur réelle S6 : 4 soirées / semaine 
+
+
+Statut : 🟢 Atteint 
+
+
+Alerte A1 (Abandon de l'outil) 
+
+
+Cible à 30 jours : Non déclenchée 
+
+
+Valeur réelle S6 : Non déclenchée 
+
+
+Statut : 🟢 Validé
