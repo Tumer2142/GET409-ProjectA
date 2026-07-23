@@ -15,7 +15,7 @@
 | **Amadou Moctar Ly** | Responsable Impact | roctariusz.1@gmail.com<br>lymoctaramadou@gmail.com |
 | **Rouzaqi Omar** | Chef de Produit (Product Manager) | Rouzaquiomar2004@gmail.com |
 | **SOVI Rawan** | Master Prompt Engineer | sovirawan25@gmail.com |
-| **Jocelan Rawambya** | Responsable Impact | À renseigner |
+| **Jocelan Rawambya** | Responsable Impact |Jocelanrawambia@icloud.com |
 
 ---
 
