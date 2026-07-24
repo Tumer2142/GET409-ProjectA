@@ -25,7 +25,7 @@
 |----------|-------------|
 | **Secteur** | Numérique |
 | **Dépôt GitHub** | https://github.com/Tumer2142/GET409-ProjectA |
-| **Application Dify** | https://cloud.dify.ai/app/73e07a8e-cdb3-4b05-a411-4587e6f7ff1c |
+| **Application Dify** | [https://cloud.dify.ai/app/73e07a8e-cdb3-4b05-a411-4587e6f7ff1c](https://cloud.dify.ai/app/73e07a8e-cdb3-4b05-a411-4587e6f7ff1c/workflow) |
 
 ---
 
