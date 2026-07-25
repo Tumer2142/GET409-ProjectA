@@ -1,7 +1,7 @@
 # 🚀 Note de Mise à Jour — FixIt
 **Équipe de développement :** Project A  
 **Projet :** Plateforme de gestion d'atelier de réparation & Assistant IA (Atelier Pluridisciplinaire)  
-**Statut :** Production / Déploiement Netlify  
+**Statut :** MVP Fonctionnel Déployé (Environnement Démo Netlify) 
 
 ---
 
