@@ -1,4 +1,4 @@
-# 🚀 Note de Mise à Jour — FixIt v2.0.0
+# 🚀 Note de Mise à Jour — FixIt
 **Équipe de développement :** Project A  
 **Projet :** Plateforme de gestion d'atelier de réparation & Assistant IA (Atelier Pluridisciplinaire)  
 **Statut :** Production / Déploiement Netlify  
@@ -9,7 +9,7 @@
 
 Dans le cadre des retours de validation et des exigences du cours d'Atelier Pluridisciplinaire, l'équipe **Project A** a procédé à une refonte majeure de l'application **FixIt**. 
 
-Cette version **v2.0.0** fait évoluer l'application d'un simple MVP vers un **SaaS multi-rôles complet**, intégrant un contrôle d'accès basé sur les rôles (RBAC), de nouvelles fonctionnalités métier B2B et une orchestration intelligente de l'agent IA via Webhook Dify.
+Cette version fait évoluer l'application d'un simple MVP vers un **SaaS multi-rôles complet**, intégrant un contrôle d'accès basé sur les rôles (RBAC), de nouvelles fonctionnalités métier B2B et une orchestration intelligente de l'agent IA via Webhook Dify.
 
 ---
 
@@ -56,7 +56,3 @@ Cette version **v2.0.0** fait évoluer l'application d'un simple MVP vers un **S
 - **Déploiement :** GitHub (CI/CD) ➔ Netlify
 - **Intelligence Artificielle :** Dify Workflows (API REST / Webhook HTTP)
 - **Gestionnaire d'état :** React Hooks / Context API pour le rôle utilisateur
-
----
-
-> **Rédigé par l'équipe Project A** — *FixIt : Simplifiez la gestion de votre atelier, une réparation à la fois.*
